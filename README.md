@@ -24,4 +24,5 @@ A Node.js scraper designed to extract metadata and download torrents of PlayStat
 
 
 ## Credit
+[boredmonkeyman](https://github.com/boredmonkeyman)
 [PS4-torrent-parser](https://github.com/boredmonkeyman/PS4-torrent-parser) (PYTHON)
